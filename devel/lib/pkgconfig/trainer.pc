@@ -1,0 +1,8 @@
+prefix=/home/wildan/proyek/qt/ros_qt/p1/devel
+
+Name: trainer
+Description: Description of trainer
+Version: 0.0.0
+Cflags: -I/home/wildan/proyek/qt/ros_qt/p1/devel/include
+Libs: -L${prefix}/lib 
+Requires: message_runtime roscpp rospy std_msgs

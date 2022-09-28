@@ -1,0 +1,2 @@
+main:trainer
+-DCATKIN_DEVEL_PREFIX=/home/wildan/proyek/qt/ros_qt/p1/devel -DCMAKE_INSTALL_PREFIX=/home/wildan/proyek/qt/ros_qt/p1/install -G Unix Makefiles
